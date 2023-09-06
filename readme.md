@@ -1,3 +1,3 @@
-<audio src="/test/audio.ogg">
-  你的浏览器不支持 audio 标签。
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="音频地址">
 </audio>
